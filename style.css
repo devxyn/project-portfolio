@@ -201,7 +201,7 @@ header {
 .project-text h3 {
   color: #fff;
   font-weight: 400;
-  padding: 10px 0;
+  font-size: 1.5em;
 }
 
 .project-text p {
@@ -302,7 +302,6 @@ footer p {
 
   .logo {
     margin-left: 40px;
-
     font-size: 2em;
   }
 
