@@ -251,6 +251,7 @@ header {
   width: 100%;
   border-radius: 20px;
   border: 1px solid #5927e5;
+  color: black;
 }
 
 .contact-me form textarea {
@@ -259,6 +260,7 @@ header {
   width: 100%;
   border-radius: 20px;
   border: 1px solid #5927e5;
+  color: black;
 }
 
 .contact-me form button {
